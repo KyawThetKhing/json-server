@@ -60,5 +60,58 @@
         "value": "၁၄"
       }
     ]
+  },
+  "twonshipList": {
+    "id": "5f5a6c82a11c82728ee2db76",
+    "lang": "my",
+    "region_code": "1",
+    "township_code": [
+      {
+        "key": "BaMaNa",
+        "value": "ဗမန"
+      },
+      {
+        "key": "KaMaTa",
+        "value": "ကမတ"
+      },
+      {
+        "key": "MaMaNa",
+        "value": "မမန"
+      },
+      {
+        "key": "NaMaNa",
+        "value": "နမန"
+      },
+      {
+        "key": "KaMaNa",
+        "value": "ကမန"
+      },
+      {
+        "key": "WaMaNa",
+        "value": "ဝမန"
+      }
+    ]
+  },
+  "nrcType": {
+    "id": "5f5a6dfaa11c82728ee2db80",
+    "lang": "my",
+    "nrc_type": [
+      {
+        "key": "N",
+        "value": "နိုင်"
+      },
+      {
+        "key": "E",
+        "value": "ဧည့်"
+      },
+      {
+        "key": "P",
+        "value": "ပြု"
+      },
+      {
+        "key": "T",
+        "value": "သာ"
+      }
+    ]
   }
 }
