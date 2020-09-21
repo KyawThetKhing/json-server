@@ -113,5 +113,121 @@
         "value": "သာ"
       }
     ]
-  }
+  },
+  "stateDivision": {
+    "id": "5f63714eab9216c536596d4d",
+    "lang": "my",
+    "state_division": [
+      {
+        "key": "ayeyarwaddy",
+        "value": "ဧရာဝတီ"
+      },
+      {
+        "key": "bago",
+        "value": "ပဲခူး"
+      },
+      {
+        "key": "kachin",
+        "value": "ကချင်"
+      },
+      {
+        "key": "kayin",
+        "value": "ကရင်"
+      },
+      {
+        "key": "magway",
+        "value": "မကွေး"
+      },
+      {
+        "key": "mandalay",
+        "value": "မန္တလေး"
+      },
+      {
+        "key": "mon",
+        "value": "မွန်"
+      },
+      {
+        "key": "naypyidaw",
+        "value": "နေပြည်တော်"
+      },
+      {
+        "key": "rakhine",
+        "value": "ရခိုင်"
+      },
+      {
+        "key": "sagain",
+        "value": "စစ်ကိုင်း"
+      },
+      {
+        "key": "shan",
+        "value": "ရှမ်း"
+      },
+      {
+        "key": "taninthary",
+        "value": "တင်္နသာရီ"
+      },
+      {
+        "key": "yangon",
+        "value": "ရန်ကုန်"
+      }
+    ]
+  },
+  "branchList": [
+    {
+      "id": "5f638fe9ab9216c536596d55",
+      "lang": "my",
+      "state_division": {
+        "key": "shan",
+        "value": "ရှမ်း"
+      },
+      "city_township": {
+        "key": "aung_pan",
+        "value": "အောင်ပန်း"
+      },
+      "branch_code": {
+        "key": "032",
+        "value": "၀၃၂"
+      },
+      "branch_name": {
+        "key": "aung_pan_branch",
+        "value": "အောင်ပန်းဘဏ်ခွဲ"
+      },
+      "branch_address": {
+        "key": "aung_pan_branch_address",
+        "value": "မြေအကွက်အမှတ် (၁၈/၃၆၈)၊ အကွက်အမှတ် (၂၃)၊ ၄ ရပ်ကွက်၊ အောင်ပန်းမြို့။"
+      },
+      "location": {
+        "type": "Point",
+        "coordinates": ""
+      }
+    },
+    {
+      "id": "5f638fe9ab9216c536596d56",
+      "lang": "my",
+      "state_division": {
+        "key": "shan",
+        "value": "ရှမ်း"
+      },
+      "city_township": {
+        "key": "lashio",
+        "value": "လားရှိုး"
+      },
+      "branch_code": {
+        "key": "007",
+        "value": "၀၀၇"
+      },
+      "branch_name": {
+        "key": "lashio_branch_1",
+        "value": "လားရှိုးဘဏ်ခွဲ ၁ (ရွှေဘိုလမ်း)"
+      },
+      "branch_address": {
+        "key": "lashio_branch_1_address",
+        "value": "အမှတ်(၂၈၆)၊ လမ်းမတော်လမ်းနှင့် ရွှေဘိုလမ်းထောင့်၊ ရပ်ကွက်(၂)၊ နယ်မြေ(၁၁)၊ လားရှိုးမြို့။"
+      },
+      "location": {
+        "type": "Point",
+        "coordinates": ""
+      }
+    }
+  ]
 }
